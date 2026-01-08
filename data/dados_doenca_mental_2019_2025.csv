@@ -1,0 +1,22 @@
+ Internações Hospitalares do SUS - por local de internação - Brasil
+Internações por Ano processamento e Região
+Especialidade: Psiquiatria
+Período:Out/2019-Out/2025
+"Ano processamento";"Norte";"Nordeste";"Sudeste";"Sul";"C.Oeste";"Total"
+"2019";1114;6904;14519;13798;2560;38895
+"2020";4020;24246;43401;44563;8488;124718
+"2021";4322;24446;42572;44546;7859;123745
+"2022";4262;25129;45445;46476;8934;130246
+"2023";5462;25812;50400;49216;9533;140423
+"2024";5399;25045;51302;50001;9704;141451
+"2025";4769;20488;45139;41687;7811;119894
+"Total";29348;152070;292778;290287;54889;819372
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Situação da base de dados nacional em 06/01/2014.
+ Dados de 2013 (até novembro) sujeitos a retificação.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera/regime dos estabelecimentos.
+ Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Regime". A partir de junho de 2012, estão como "Natureza Jurídica" e
+ "Esfera Jurídica".
+ 
