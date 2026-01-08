@@ -1,5 +1,7 @@
 # Análise de Doenças Mentais no Brasil (2019–2025)
 
+![Python](https://img.shields.io/badge/python-3.14-blue)
+
 Este projeto realiza uma análise exploratória de dados públicos sobre internações relacionadas a doenças mentais no Brasil entre 2019 e 2025.
 
 ## Objetivo
@@ -60,6 +62,14 @@ Assim, os dados analisados podem ser entendidos como parte de um cenário mais a
 Mais do que identificar tendências, esta análise reforça a necessidade de tratar a saúde mental como uma prioridade em saúde pública. O projeto demonstra como dados públicos podem ser utilizados para revelar padrões relevantes, gerar hipóteses e apoiar decisões baseadas em evidências.
 
 Os números ajudam a contar uma história que, no mundo real, envolve pessoas tentando lidar com perdas, mudanças e pressões cada vez mais intensas. Transformar esses dados em informação acessível e contextualizada é um passo essencial para promover políticas públicas mais eficazes e estratégias de prevenção mais humanas.
+
+## Principais Gráficos
+
+### Evolução Temporal de Internações
+![Evolução Temporal](outputs/figures/evolucao_temporal.png)
+
+### Distribuição Regional
+![Distribuição Regional](outputs/figures/distribuicao_regional.png)
 
 **Considerações finais**
 
