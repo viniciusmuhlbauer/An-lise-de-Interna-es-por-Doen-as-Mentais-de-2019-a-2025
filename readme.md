@@ -63,13 +63,17 @@ Mais do que identificar tendências, esta análise reforça a necessidade de tra
 
 Os números ajudam a contar uma história que, no mundo real, envolve pessoas tentando lidar com perdas, mudanças e pressões cada vez mais intensas. Transformar esses dados em informação acessível e contextualizada é um passo essencial para promover políticas públicas mais eficazes e estratégias de prevenção mais humanas.
 
-## Principais Gráficos
+## Gráficos
 
-### Evolução Temporal de Internações
-![Evolução Temporal](outputs/figures/evolucao_temporal.png)
+### Evolução por Região
+![Evolução por Região](outputs/figures/evolucao_por_regiao.png)
 
-### Distribuição Regional
-![Distribuição Regional](outputs/figures/distribuicao_regional.png)
+### Evolução Total
+![Evolução Total](outputs/figures/evolucao_total.png)
+
+### Total por Região
+![Total por Região](outputs/figures/total_por_regiao.png)
+
 
 **Considerações finais**
 
